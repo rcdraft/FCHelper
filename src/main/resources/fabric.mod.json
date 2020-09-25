@@ -14,12 +14,12 @@
   },
 
   "license": "GPL-3.0-or-later",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/fchelper/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "io.github.relapercrystal.fchelper.ModMain"
     ]
   },
 
