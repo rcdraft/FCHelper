@@ -1,4 +1,7 @@
 {
     "item.fchelper.marker": "Marker",
-    "block.fchelper.construction_block": "Construction Block"
+    "block.fchelper.construction_block": "Construction Block",
+    "block.fchelper.protector_glass": "Protector Glass",
+    "block.fchelper.protector_glass.use": "§cYou do not have rights to access through this block.",
+    "itemGroup.fchelper.fchelper_group": "Fabric Conteng Helper"
 }

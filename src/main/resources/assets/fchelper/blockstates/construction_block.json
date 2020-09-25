@@ -1,5 +1,5 @@
 {
-    "variants": {
-      "": { "model": "fchelper:block/construction_block" }
-    }
+  "variants": {
+    "": { "model": "fchelper:block/construction_block" }
   }
+}

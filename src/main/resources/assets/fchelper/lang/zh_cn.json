@@ -1,4 +1,7 @@
 {
     "item.fchelper.marker": "标记",
-    "block.fchelper.construction_block": "工程方块"
+    "block.fchelper.construction_block": "工程方块",
+    "block.fchelper.protector_glass": "守护者玻璃",
+    "block.fchelper.protector_glass.use": "§c你没有权利访问这个方块。",
+    "itemGroup.fchelper.fchelper_group": "Fabric Conteng Helper"
 }
